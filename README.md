@@ -1,32 +1,5 @@
+<<<<<<< HEAD
 # Vue Date Manipulation App
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
 
 This Vue project demonstrates a simple date manipulation interface utilizing Vue.js and Composition API.
 
@@ -60,4 +33,8 @@ How to Use:
 2. Click the "Add Day" button to increment the date by one day.
 3. Click the "Add Month" button to increment the date by one month.
 4. Observe the responsive design of the buttons on different screen sizes.
+<<<<<<< HEAD
 5. Enjoy the rainbow background animation as a visual effect.
+=======
+5. Enjoy the rainbow background animation as a visual effect. 
+>>>>>>> f760a060b7482da70f96ed57e35b9212286be67f

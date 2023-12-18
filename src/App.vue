@@ -1,13 +1,13 @@
 <template>
   <h1>Vue Date Manipulation App</h1>
- <Date />
+ <Index />
 </template>
 
 <script>
-import Date from './components/Date.vue';
+import Index from './components/Index/index.vue';
   export default {
     components: {
-      Date,
+      Index,
     }
     
   }
